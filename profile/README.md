@@ -2,12 +2,11 @@
 Hello, This is a github org where you can see we develop the game.
 
 ## About Extract Into Void / EIV
-Extract Into Void is a First-Person (Extraction-like) Shooter, highy moddable/modular. You can create your own story, game mechanic, map, etc.\
-We provide a basic "EIV_Core" expansion with help of Pixel (pixelkingliam) which includes a story, many guns, and maps.
+Extract Into Void is a First-Person (Extraction-like) Shooter, highy moddable/modular. You can create your own story, game mechanic, map, etc.
 
-## Technical
-The Game is made with Godot 4.3 Original plan was to use Unity, then Stride, but landed back on Godot.\
-Heavily inspired by Extaction like title EFT.
+## More
+To know more about some basic information here is our document:\
+[EIV Main document](https://docs.google.com/document/d/1n9eyD3SWdsFcHsKVwwNP8r1AnAq1CNKmzY3Iv79Dqkg/view?tab=t.2z9hxt70o7ry)
 
 ## Discord
 We have a discord server, you can join here: https://discord.gg/6kubasK9hf
